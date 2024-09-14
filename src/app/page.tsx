@@ -10,17 +10,17 @@ export default function Home() {
 		{
 			href: "https://once-ui.com/docs/theming",
 			title: "Themes",
-			description: "Style your app in minutes.",
+			description: "It's themes. Just themes. What the fuck did you expect?",
 		},
 		{
 			href: "https://once-ui.com/docs/flexComponent",
 			title: "Your mom",
-			description: "Build responsive layouts.",
+			description: "She's so fat, Thanos had to clap.",
 		},
 		{
 			href: "https://once-ui.com/docs/typography",
 			title: "Lmao",
-			description: "Scale text automatically.",
+			description: "Lmao",
 		},
 	];
 
@@ -57,7 +57,7 @@ export default function Home() {
 									width: 'fit-content',
 									padding: 'var(--static-space-8) var(--static-space-16)',
 									backdropFilter: 'blur(var(--static-space-1))'}}>
-								Start by editing <span className="brand-on-background-medium">app/page.tsx</span>
+								THE LMAO: <span className="brand-on-background-medium">Fern</span>
 							</InlineCode>
 							<Heading
 								wrap="balance"
@@ -65,7 +65,7 @@ export default function Home() {
 								<span className="font-code">
 									<LetterFx
 										trigger="instant">
-										Helping designers code and developers design
+										Hát én lepetézek baszkikám
 									</LetterFx>
 								</span>
 							</Heading>
@@ -120,14 +120,14 @@ export default function Home() {
 				justifyContent="space-between">
 				<Text
 					variant="body-default-s" onBackground="neutral-weak">
-					© 2024 Once UI, <Link href="https://github.com/once-ui-system/nextjs-starter?tab=MIT-1-ov-file">MIT License</Link>
+					© 2024 Twice UI, <Link href="https://github.com/once-ui-system/nextjs-starter?tab=MIT-1-ov-file">MIT License</Link>
 				</Text>
 				<Flex
 					gap="12">
 					<Button
-						href="https://github.com/once-ui-system/nextjs-starter"
+						href="https://www.youtube.com/watch?v=q-Y0bnx6Ndw&pp=ygUPcmlja3JvbGwgbm8gYWRz"
 						prefixIcon="github" size="s" variant="tertiary">
-						GitHub
+						Contribute
 					</Button>
 					<Button
 						href="https://discord.com/invite/5EyAQ4eNdS"
