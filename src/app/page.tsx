@@ -14,12 +14,12 @@ export default function Home() {
 		},
 		{
 			href: "https://once-ui.com/docs/flexComponent",
-			title: "Layout",
+			title: "Your mom",
 			description: "Build responsive layouts.",
 		},
 		{
 			href: "https://once-ui.com/docs/typography",
-			title: "Typography",
+			title: "Lmao",
 			description: "Scale text automatically.",
 		},
 	];
