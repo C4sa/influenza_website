@@ -5,12 +5,13 @@ import { Flex } from '@/once-ui/components'
 import classNames from 'classnames';
 import { Inter } from 'next/font/google'
 import { Source_Code_Pro } from 'next/font/google';
+import { Inter } from 'next/font/google';
 
 const primary = Inter({
-	variable: '--font-primary',
-	subsets: ['latin'],
-	display: 'swap',
-})
+    variable: '--font-primary',
+    subsets: ['latin'],
+    display: 'swap'
+});
 
 type FontConfig = {
     variable: string;
@@ -43,8 +44,13 @@ export default function RootLayout({
 			data-neutral="gray" data-brand="blue" data-accent="violet"
 			data-solid="color" data-solid-style="flat"
 			data-theme="dark"
-			data-border="playful"
-			data-surface="filled"
+			data-brand="magenta"
+			data-accent="orange"
+			data-neutral="gray"
+			data-border="conservative"
+			data-solid="contrast"
+			data-solid-style="flat"
+			data-surface="translucent"
 			data-transition="all"
 			className={classNames(
 				primary.variable,
