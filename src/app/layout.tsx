@@ -41,7 +41,7 @@ export default function RootLayout({
 			as="html" lang="en"
 			fillHeight background="page"
 			//data-neutral="gray" data-brand="blue" data-accent="violet"
-			data-solid="color" data-solid-style="flat"
+			//data-solid="color" data-solid-style="flat"
 			data-theme="dark"
 			data-brand="magenta"
 			data-accent="orange"
